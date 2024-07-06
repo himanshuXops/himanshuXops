@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Himanshu Chandra
+- 👋 Hi, I’m Himanshu Chandra <b>(Hawk_DeLta)</b>
 - 👀 I’m interested in Node.js | React Js
+ 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/himanshu_x_ops/?hl=en)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himanshu_X_Ops )
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/himanshu-chandra-x-ops-208633301)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Follow%20me%20on%20Facebook-blue?logo=facebook)](https://www.facebook.com/himanshuchandra055)
 
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
